@@ -6,8 +6,8 @@ function App() {
   return (
     <>
     
-      <div className="w-full h-screen duration-200"
-      style={{backgroundColor: color}}>
+        <div className="w-full h-screen duration-200"
+        style={{backgroundColor: color}}>
         <h1 className="justify-center h-screen flex items-center text-3xl">Mere room me ek hawasi rhta h</h1>
         <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
           <div className="flex flex-wrap justify-centre gap-3 shadow-lg bg-white px-3 py-2 rounded-xl">
